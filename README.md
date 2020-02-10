@@ -1,3 +1,23 @@
 # Sucker
-Music player build with python 
-Project for Intermediates
+Language used :
+
+Python
+
+-----------------------------------------------------------
+
+Module used :
+
+Pygame
+
+Tkinter
+
+TTkthemes
+
+Mutagen
+
+OS
+
+Web browser
+
+-----------------------------------------------------------
+
