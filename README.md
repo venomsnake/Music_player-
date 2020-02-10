@@ -7,17 +7,17 @@ Python
 
 Module used :
 
-Pygame
+Pygame   # pip install pygame
 
-Tkinter
+Tkinter  # Pre-installed [import tkinter --Python_3 and import Tkinter --Python_2]
 
-TTkthemes
+TTkthemes # pip install ttkthemes
 
-Mutagen
+Mutagen   # pip install mutagen
 
-OS
+OS       # Pre-installed
 
-Web browser
+Web browser # pip install webbrowser
 
 -----------------------------------------------------------
 
